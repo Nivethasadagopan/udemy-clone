@@ -78,6 +78,12 @@ body {
 .mylearning:hover .mylearning__popup{
     display: block;
 }
+
+.mylearning:hover{
+   
+    color: lawngreen ;
+    transition: 1s;
+}
 .categories{
     display: flex;
     padding: 10px;
